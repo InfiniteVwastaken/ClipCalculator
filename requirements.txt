@@ -1,5 +1,5 @@
 clip
 torch
 numpy
-faiss
+faiss-cpu
 tqdm
